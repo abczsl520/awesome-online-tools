@@ -36,6 +36,7 @@
 ## Developer Tools
 
 - [RunDev](https://run-dev.com) - 55+ dev tools: JSON formatter, regex tester, Base64 encoder, code minifier.
+- [DevPick](https://devpick.sh/) - Privacy-friendly browser-based developer toolbox with JSON formatting, Base64, regex, cron, QR code, PDF, and SEO utilities.
 - [DevDocs](https://devdocs.io) - API documentation browser.
 - [JSON Editor Online](https://jsoneditoronline.org) - Edit and format JSON.
 
