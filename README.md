@@ -49,6 +49,7 @@
 
 - [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
 - [iLovePDF](https://www.ilovepdf.com) - PDF tools collection.
+- - [EveryTool4U](https://everytool4u.com) - 108 free browser-based tools: PDF (merge, split, compress, sign, OCR, redact), image (remove bg, resize), video, text, and finance tools. Files never leave your device.
 - [SmallPDF](https://smallpdf.com) - PDF tools and converter.
 
 ## SEO Tools
