@@ -82,3 +82,10 @@ Your contributions are welcome! Please read the [contribution guidelines](CONTRI
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+---
+
+## 🌐 Multi-Category All-in-One Platforms
+
+- [EveryTool4U](https://everytool4u.com) — 108 free tools: Developer (JSON, Base64, UUID, JWT, regex, hash), PDF (merge/split/compress/sign/OCR/redact), Image (background removal, HEIC→JPG, resize), Video to GIF, QR codes, invoices. 100% browser-based, zero upload.
