@@ -71,6 +71,7 @@
 
 ## Generators
 
+- [Bulk QR Code Generator for Excel and CSV](https://www.bulkqrcodegenerator.art/) - Generate QR codes or Code 128 barcodes from Excel/CSV rows and export ZIP, PDF, or SVG files.
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
