@@ -35,9 +35,10 @@
 
 ## Developer Tools
 
-- [RunDev](https://run-dev.com) - 55+ dev tools: JSON formatter, regex tester, Base64 encoder, code minifier.
 - [DevDocs](https://devdocs.io) - API documentation browser.
+- [FastTool](https://fasttool.app/) - Browser-based JSON, PDF, image, text, calculator, and generator utilities.
 - [JSON Editor Online](https://jsoneditoronline.org) - Edit and format JSON.
+- [RunDev](https://run-dev.com) - 55+ dev tools: JSON formatter, regex tester, Base64 encoder, code minifier.
 
 ## Image Tools
 
