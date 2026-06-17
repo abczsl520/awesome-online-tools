@@ -23,6 +23,8 @@
 
 ## Calculators
 
+- [Mini Tools](https://mini-tools.uk) - Free multilingual tools for UK tax calculation, take-home pay, VAT, mortgage payments, image hosting, PDF utilities, and developer tasks.
+
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
