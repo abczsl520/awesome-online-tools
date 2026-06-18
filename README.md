@@ -53,6 +53,7 @@
 
 ## SEO Tools
 
+- [FastTool](https://fasttool.app) - Browser-first tools for SEO, AI-agent discovery, content quality, schema, sitemap, and workflow proof checks.
 - [SeoIO](https://seo-io.com) - 55+ SEO tools: meta checker, keyword analyzer, sitemap generator.
 - [GTmetrix](https://gtmetrix.com) - Website speed testing.
 - [PageSpeed Insights](https://pagespeed.web.dev) - Core Web Vitals analysis.
