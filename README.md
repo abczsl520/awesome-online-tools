@@ -23,6 +23,7 @@
 
 ## Calculators
 
+- [Calnex](https://calnex.pro) - Privacy-first calculators for finance, health, math, physics, unit conversion, engineering, environment, transportation, statistics, and everyday planning. Runs in your browser with no signup.
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
