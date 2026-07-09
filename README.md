@@ -29,6 +29,7 @@
 
 ## Text Tools
 
+- [TextFaker](https://textfaker.com/) - Create realistic iPhone-style text message screenshots for demos, lessons, stories, and UI mockups.
 - [TxtTool](https://txt-tool.com) - 60+ text processing tools: word counter, case converter, diff checker.
 - [TextFixer](https://www.textfixer.com) - Online text tools.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Data analysis and conversion.
