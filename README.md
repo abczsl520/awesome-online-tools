@@ -41,6 +41,7 @@
 
 ## Image Tools
 
+- [App Doodler](https://doodler.copymyui.com/) - Free browser tool for multilingual App Store screenshots and device-sized PNG exports.
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
