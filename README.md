@@ -24,6 +24,7 @@
 ## Calculators
 
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, footings, post holes, bag counts, ready-mix comparisons, and material cost planning.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
 
