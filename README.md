@@ -37,6 +37,7 @@
 
 - [RunDev](https://run-dev.com) - 55+ dev tools: JSON formatter, regex tester, Base64 encoder, code minifier.
 - [DevDocs](https://devdocs.io) - API documentation browser.
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, CSV, or pasted tables to Markdown locally in the browser.
 - [JSON Editor Online](https://jsoneditoronline.org) - Edit and format JSON.
 
 ## Image Tools
