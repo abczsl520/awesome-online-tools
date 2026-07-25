@@ -26,6 +26,7 @@
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
+- [Nutilz Car Lease Calculator](https://nutilz.com/car-lease-calculator) - Free car lease calculator to estimate monthly payments and total lease cost, no signup required.
 
 ## Text Tools
 
