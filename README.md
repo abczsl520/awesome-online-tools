@@ -31,6 +31,7 @@
 
 - [TxtTool](https://txt-tool.com) - 60+ text processing tools: word counter, case converter, diff checker.
 - [TextFixer](https://www.textfixer.com) - Online text tools.
+- [Website to Text](https://websitetotext.com/) - Convert a public webpage URL into clean plain text or Markdown.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Data analysis and conversion.
 
 ## Developer Tools
