@@ -41,6 +41,7 @@
 
 ## Image Tools
 
+- [Metadata Remover](https://metadataremover.ai/) - Inspect and remove image metadata locally in the browser.
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
