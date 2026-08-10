@@ -1,4 +1,4 @@
-# Awesome Free Online Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome Free Online Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of the best free online tools that work directly in your browser — no signup, no installation required.
 
@@ -74,6 +74,7 @@
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
+- [Korelyy](https://korelyy.com) - Privacy-first collection of 100+ free online tools (image, PDF, unit, JSON, generators). No signup, runs entirely in your browser. Six languages supported.
 
 ## Contributing
 
@@ -82,3 +83,4 @@ Your contributions are welcome! Please read the [contribution guidelines](CONTRI
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
