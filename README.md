@@ -26,6 +26,9 @@
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
+- [WattsCalc](https://wattscalc.com) - Wattage and electricity cost calculator for appliances.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Lawn mowing cost estimates by area and rate.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Embroidery job pricing from stitches, fabric, and labor.
 
 ## Text Tools
 
@@ -74,6 +77,10 @@
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
+- [Codex Theme Builder](https://codextheme.tools) - Browser theme builder for OpenAI Codex with live preview.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Convert images into crochet patterns.
+- [SkyCOTL Tools](https://skycotl.tools) - Guides and calculators for Sky: Children of the Light.
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Troubleshooting guides for pressure washer problems.
 
 ## Contributing
 
