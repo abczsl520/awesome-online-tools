@@ -73,6 +73,7 @@
 
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
+- [Toolkit Labs QR](https://cdn.jsdelivr.net/npm/toolkitlabs-qr@latest/index.html) - Static browser QR generator with PNG/SVG export; CC0, no signup, optional batch CLI.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
 
 ## Contributing
@@ -82,3 +83,4 @@ Your contributions are welcome! Please read the [contribution guidelines](CONTRI
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
