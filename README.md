@@ -41,6 +41,7 @@
 
 ## Image Tools
 
+- [FileOnTap](https://fileontap.com/) - Free browser-based image and PDF converter; files stay on the device and no account is required.
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
