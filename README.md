@@ -26,6 +26,7 @@
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
+- [Smart Roofing Calculator](https://www.smartroofingcalculator.com/) - 40+ roofing calculators: roof area, pitch, shingles, nails, plywood and replacement cost.
 
 ## Text Tools
 
