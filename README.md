@@ -26,6 +26,7 @@
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
+- [ToolVerse US](https://toolverseus.com) - 1000+ free online tools: PDF, image, SEO, text and calculators, no signup needed.
 
 ## Text Tools
 
