@@ -23,9 +23,10 @@
 
 ## Calculators
 
-- [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
+- [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
+- [Hungarian follower-growth calculator](https://koveto-vasarlas.hu/tools/follower-growth) - Calculate the net follower difference and daily/weekly averages needed to reach a target over a chosen number of days, in Hungarian.
 
 ## Text Tools
 
