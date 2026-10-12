@@ -9,6 +9,7 @@
 - [Text Tools](#text-tools)
 - [Developer Tools](#developer-tools)
 - [Image Tools](#image-tools)
+- [Audio Tools](#audio-tools)
 - [PDF Tools](#pdf-tools)
 - [SEO Tools](#seo-tools)
 - [Download Tools](#download-tools)
@@ -44,6 +45,10 @@
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
+
+## Audio Tools
+
+- [QuietTake Noise Remover](https://noiseremover.site/) - Local RNNoise speech noise reduction, original/cleaned playback and 48 kHz 16-bit WAV export; free without signup or audio upload, up to 50 MB and five minutes per file.
 
 ## PDF Tools
 
