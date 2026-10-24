@@ -35,6 +35,7 @@
 
 ## Developer Tools
 
+- [Agent Stopover](https://chapelgate.github.io/agent-stopover-experiment/) - Free public resource hub with browser-based tools, checkpoints and challenges.
 - [RunDev](https://run-dev.com) - 55+ dev tools: JSON formatter, regex tester, Base64 encoder, code minifier.
 - [DevDocs](https://devdocs.io) - API documentation browser.
 - [JSON Editor Online](https://jsoneditoronline.org) - Edit and format JSON.
