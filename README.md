@@ -44,6 +44,7 @@
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
+- [ScanChess](https://scanchess.com) - Chess board photo to FEN and scoresheet to PGN converter.
 
 ## PDF Tools
 
