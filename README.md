@@ -1,84 +1,78 @@
-# Awesome Free Online Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Online Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of the best free online tools that work directly in your browser — no signup, no installation required.
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/kgohil)
+
+> A curated collection of privacy-first online tools and utilities for
+> developers, designers, and power users. All processing happens in your
+> browser.
+
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list phenomenon.*
 
 ## Contents
 
-- [Unit Converters](#unit-converters)
-- [Calculators](#calculators)
-- [Text Tools](#text-tools)
-- [Developer Tools](#developer-tools)
-- [Image Tools](#image-tools)
-- [PDF Tools](#pdf-tools)
-- [SEO Tools](#seo-tools)
-- [Download Tools](#download-tools)
-- [Network Tools](#network-tools)
-- [Generators](#generators)
+- [Code Editors & Programming Languages](#code-editors--programming-languages)
+- [Data & Configuration Tools](#data--configuration-tools)
+- [Text & Content Tools](#text--content-tools)
+- [Diagram & Visualization Tools](#diagram--visualization-tools)
+- [Comparison & Analysis Tools](#comparison--analysis-tools)
+- [File Management Tools](#file-management-tools)
+- [DevOps & System Tools](#devops--system-tools)
 
-## Unit Converters
+## Code Editors & Programming Languages
 
-- [ConvKit](https://conv-kit.com) - 100+ unit conversion tools: weight, length, temperature, volume, speed, and more.
-- [Google Unit Converter](https://www.google.com/search?q=unit+converter) - Built into Google search.
-- [UnitConverters.net](https://www.unitconverters.net) - Comprehensive unit conversion site.
+- [HTML/CSS/JS Playground](https://www.tools-online.app/tools/html-css-js) - Online HTML/CSS/JS playground with live preview, three-panel editing, and AI code assistance.
+- [TypeScript Editor](https://www.tools-online.app/tools/typescript) - Online TypeScript editor with real-time compilation, type checking, and AI code assistance.
+- [Python Editor](https://www.tools-online.app/tools/python) - Online Python editor with real-time execution, standard library support, and AI code assistance.
+- [Java Online Editor](https://www.tools-online.app/tools/java) - Online Java editor with JVM support, enterprise development patterns, and AI code assistance.
+- [C/C++ Editor](https://www.tools-online.app/tools/cpp) - Online C/C++ editor with real-time compilation, memory safety features, and AI code assistance.
+- [C# Online Editor](https://www.tools-online.app/tools/csharp) - Online C# editor with .NET framework support, object-oriented programming, and AI code assistance.
+- [Go Editor](https://www.tools-online.app/tools/go) - Write and test Go code with concurrency features, package support, and AI code assistance.
+- [Ruby Editor](https://www.tools-online.app/tools/ruby) - Write and test Ruby code with OOP, limited gem support, and AI code assistance.
+- [PHP Editor](https://www.tools-online.app/tools/php) - Write and test PHP code with web integration, server-side development features, and AI code assistance.
+- [R Online Editor](https://www.tools-online.app/tools/r) - Online R editor for statistical computing and data visualization with AI-powered code assistance.
+- [Julia Editor](https://www.tools-online.app/tools/julia) - Online Julia editor for scientific computing with multiple dispatch support and AI code assistance.
+- [Lua Editor](https://www.tools-online.app/tools/lua) - Lightweight scripting language editor with metatable support for game development and AI code assistance.
+- [SQL Editor](https://www.tools-online.app/tools/sql) - Online SQL editor with query execution, sample databases, and AI query assistance.
+- [PostgreSQL Query Editor](https://www.tools-online.app/tools/postgres) - Advanced PostgreSQL editor with syntax highlighting, query optimization, and AI-powered query assistance.
 
-## Calculators
+## Data & Configuration Tools
 
-- [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
-- [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
-- [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
+- [JSON Editor](https://www.tools-online.app/tools/json) - Online JSON
+  editor with formatting, validation, tree view, schema validation, and AI
+  assistance.
+- [YAML Editor](https://www.tools-online.app/tools/yaml) - Online YAML
+  editor with schema validation, multi-document support, and AI assistance.
 
-## Text Tools
+## Text & Content Tools
 
-- [TxtTool](https://txt-tool.com) - 60+ text processing tools: word counter, case converter, diff checker.
-- [TextFixer](https://www.textfixer.com) - Online text tools.
-- [CyberChef](https://gchq.github.io/CyberChef/) - Data analysis and conversion.
+- [Markdown Editor](https://www.tools-online.app/tools/markdown) - Online Markdown editor with live preview, GitHub-flavored syntax, and image support.
+- [AI-Powered Online Notepad](https://www.tools-online.app/tools/notepad) - Online AI-powered notepad with grammar checking, writing assistance, rich text formatting, LaTeX support, and media embedding.
+- [MJML Email Editor](https://www.tools-online.app/tools/mjml) - Online MJML editor with real-time compilation, responsive email design, and AI-powered template generation.
 
-## Developer Tools
+## Diagram & Visualization Tools
 
-- [RunDev](https://run-dev.com) - 55+ dev tools: JSON formatter, regex tester, Base64 encoder, code minifier.
-- [DevDocs](https://devdocs.io) - API documentation browser.
-- [JSON Editor Online](https://jsoneditoronline.org) - Edit and format JSON.
+- [Mermaid Diagram Editor](https://www.tools-online.app/tools/mermaid) - Online Mermaid diagram editor with real-time preview, multiple diagram types, and AI assistance.
+- [GraphViz DOT Editor](https://www.tools-online.app/tools/graphviz) - Online GraphViz DOT editor with real-time preview, multiple layout engines, and AI diagram generation.
 
-## Image Tools
+## Comparison & Analysis Tools
 
-- [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
-- [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
-- [Squoosh](https://squoosh.app) - Image compression by Google.
+- [Data Comparison Tool](https://www.tools-online.app/tools/comparison) - Online data comparison tool with Excel/CSV import, interactive column mapping, and visual difference highlighting.
+- [Text Compare Tool](https://www.tools-online.app/tools/text-compare) - Compare text files and documents online with dynamic change summary, multi-factor complexity scoring, and security-focused character detection.
+- [JSON Compare Tool](https://www.tools-online.app/tools/json-compare) - Compare JSON files with semantic analysis, tree view of changes, and property-level merge editor.
+- [Code Compare Tool](https://www.tools-online.app/tools/code-compare) - Compare source code with semantic analysis, VS Code-style line merge, and intelligent merging for JavaScript, TypeScript, Python, Java, and C#.
+- [YAML Compare Tool](https://www.tools-online.app/tools/yaml-compare) - Compare YAML files with structure preservation, comment handling, and anchor/alias support for DevOps configurations.
 
-## PDF Tools
+## File Management Tools
 
-- [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
-- [iLovePDF](https://www.ilovepdf.com) - PDF tools collection.
-- [SmallPDF](https://smallpdf.com) - PDF tools and converter.
+- [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
 
-## SEO Tools
+## DevOps & System Tools
 
-- [SeoIO](https://seo-io.com) - 55+ SEO tools: meta checker, keyword analyzer, sitemap generator.
-- [GTmetrix](https://gtmetrix.com) - Website speed testing.
-- [PageSpeed Insights](https://pagespeed.web.dev) - Core Web Vitals analysis.
-
-## Download Tools
-
-- [DlKit](https://dl-kit.com) - 55+ download and conversion tools for video, audio, and files.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line video downloader.
-- [cobalt](https://cobalt.tools) - Social media content downloader.
-
-## Network Tools
-
-- [NetTool](https://nettool1.com) - 50+ network tools: DNS lookup, IP checker, SSL validator, ping test.
-- [MXToolbox](https://mxtoolbox.com) - Email and DNS tools.
-- [DNSChecker](https://dnschecker.org) - DNS propagation checker.
-
-## Generators
-
-- [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
-- [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
-- [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
+- [Cron Expression Generator](https://www.tools-online.app/tools/cron) - Visual crontab generator with real-time preview, plain English descriptions, and common schedule templates.
+- [World Time Zone Converter](https://www.tools-online.app/tools/timezone) - Online timezone converter with multi-zone comparison, business hours visualization, and DST smart detection.
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - Free browser sticker sheet maker: lays out 4x7 sticker sheets for print-and-cut printers, plus a cost-per-sheet calculator.
 
 ## Contributing
 
-Your contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+Found an amazing online tool that should be included? Please see
+[CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
