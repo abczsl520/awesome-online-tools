@@ -74,6 +74,7 @@
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
+- [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) - Generate NPC cards with names, roles, motives, flaws, secrets, factions and story hooks.
 
 ## Contributing
 
