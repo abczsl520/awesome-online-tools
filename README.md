@@ -23,6 +23,7 @@
 
 ## Calculators
 
+- [Calculation Hub](https://calculation-hub.com/) - Free calculators for mathematics, statistics, science, finance, and everyday estimates, with formulas and assumptions; no login required.
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
