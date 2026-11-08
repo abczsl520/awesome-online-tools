@@ -23,6 +23,7 @@
 
 ## Calculators
 
+- [Bike Size Calculator](https://bike-size.com/calculators/bike-size) - Estimate a starting road, mountain or hybrid frame size from height and inseam; not a full bike fit.
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
