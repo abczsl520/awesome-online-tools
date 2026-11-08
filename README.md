@@ -71,6 +71,7 @@
 
 ## Generators
 
+- [Cursive Generation](https://cursive-generation.com/cursive-generator) - Preview text in decorative cursive fonts; copying preserves plain text, not the selected styling.
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
