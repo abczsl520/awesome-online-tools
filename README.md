@@ -47,8 +47,8 @@
 
 ## PDF Tools
 
-- [Dogeshorts PDF Tools](https://dogeshorts.com/pdftools) - Free PDF tools that run entirely in your browser: merge, split, compress, convert, rotate, watermark, protect and unlock PDFs with no account and no uploads.
-- - [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
+- [Dogeshorts PDF Tools](https://dogeshorts.com/pdftools) - Free PDF tools that run entirely in your browser: merge, split, compress, convert, rotate, watermark, protect and unlock PDFs with no account and no loads.
+- [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
 - [iLovePDF](https://www.ilovepdf.com) - PDF tools collection.
 - [SmallPDF](https://smallpdf.com) - PDF tools and converter.
 
