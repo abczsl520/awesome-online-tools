@@ -23,6 +23,7 @@
 
 ## Calculators
 
+- [Azeroth Survivors Build Calculator](https://azerothsurvivors.app/build-calculator/) - Plan talents, skills, and equipment for Azeroth Survivors, save locally, share editable links, and export PNGs without an account.
 - [GoCalc](https://go-calc.com) - 65+ free calculators: BMI, mortgage, percentage, age, GPA, and more.
 - [Calculator.net](https://www.calculator.net) - Financial, fitness, math calculators.
 - [Desmos](https://www.desmos.com/calculator) - Graphing calculator.
