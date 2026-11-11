@@ -41,6 +41,7 @@
 
 ## Image Tools
 
+- [AVIF Crate](https://avifcrate.com/) - Convert AVIF files to JPG in the browser with batch export and quality controls.
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
