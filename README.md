@@ -50,6 +50,7 @@
 - [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
 - [iLovePDF](https://www.ilovepdf.com) - PDF tools collection.
 - [SmallPDF](https://smallpdf.com) - PDF tools and converter.
+- [zippic](https://zippic.app/pdf-merger) - Free browser-based PDF merger; combine multiple PDFs into one file locally, no upload, no signup.
 
 ## SEO Tools
 
