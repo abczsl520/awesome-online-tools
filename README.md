@@ -32,6 +32,7 @@
 - [TxtTool](https://txt-tool.com) - 60+ text processing tools: word counter, case converter, diff checker.
 - [TextFixer](https://www.textfixer.com) - Online text tools.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Data analysis and conversion.
+- **[NEURON Prompt Checker](https://aleksknyaz1968-rgb.github.io/neuron-prompt-checker/)** — Free multilingual browser tool for checking prompt completeness and creating structured prompt templates; no sign-up required.
 
 ## Developer Tools
 
