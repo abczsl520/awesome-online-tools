@@ -71,6 +71,7 @@
 
 ## Generators
 
+- [DTMF Tone Generator by SpeakerEject](https://speakereject.com/dtmf-tone-generator/) - Play telephone keypad tones or export a sequence as a WAV file.
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
