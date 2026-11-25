@@ -49,6 +49,7 @@
 
 - [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
 - [iLovePDF](https://www.ilovepdf.com) - PDF tools collection.
+- [PDF Fan — Insertar páginas en un PDF](https://pdf.fan/es/insertar-paginas-pdf/) - Insert blank pages or selected pages from another PDF at a specified position.
 - [SmallPDF](https://smallpdf.com) - PDF tools and converter.
 
 ## SEO Tools
