@@ -42,6 +42,7 @@
 ## Image Tools
 
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
+- [TinyMast](https://tinymast.com/image-compress/) - Compress up to 100 JPG/PNG/WebP/GIF images per batch to a per-file KB target or quality level, with ZIP download; also does PDF compression, merge, split, OCR and conversion. No signup or watermark.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
 
